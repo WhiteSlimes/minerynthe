@@ -1,0 +1,12 @@
+fr\kujaku\minerynthe\mineryntheplugin\utils\DifficultyInfo.class
+fr\kujaku\minerynthe\mineryntheplugin\Command\PNJCommand.class
+fr\kujaku\minerynthe\mineryntheplugin\Listener\GameListener.class
+fr\kujaku\minerynthe\mineryntheplugin\Command\PlayCommand.class
+fr\kujaku\minerynthe\mineryntheplugin\Listener\PNJListener.class
+fr\kujaku\minerynthe\mineryntheplugin\Listener\GameListener$1.class
+fr\kujaku\minerynthe\mineryntheplugin\utils\ItemUtil.class
+fr\kujaku\minerynthe\mineryntheplugin\Main.class
+fr\kujaku\minerynthe\mineryntheplugin\Inventory\PNJInventory.class
+fr\kujaku\minerynthe\mineryntheplugin\Command\ResetCommand.class
+fr\kujaku\minerynthe\mineryntheplugin\Inventory\DifficultyInventory.class
+fr\kujaku\minerynthe\mineryntheplugin\Command\SpawnmobCommand.class

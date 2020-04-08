@@ -1,0 +1,14 @@
+name: MinerynthePlugin
+version: 1.0
+main: fr.kujaku.minerynthe.mineryntheplugin.Main
+api-version: 1.13
+authors: [Kujaku]
+commands:
+  play:
+    description: Permet de lancer une bouvelle partie.
+  spawnmob:
+    description: Fait juste spawn un mob.
+  reset:
+    description: Reset le scoreboard.
+  pnj:
+    description: Créer un pnj
